@@ -1,0 +1,16 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "config.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Yun",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^4.0.3"
+  }
+}
